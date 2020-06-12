@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC.ConsoleApp", "gRPC.Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC.Service01", "gRPC.Service01\gRPC.Service01.csproj", "{AF307FCA-6F75-4E15-8A22-CC3A37845444}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp01", "WebApp01\WebApp01.csproj", "{37AA73E6-8035-403E-8B22-72FA805AB860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AF307FCA-6F75-4E15-8A22-CC3A37845444}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF307FCA-6F75-4E15-8A22-CC3A37845444}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF307FCA-6F75-4E15-8A22-CC3A37845444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AA73E6-8035-403E-8B22-72FA805AB860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AA73E6-8035-403E-8B22-72FA805AB860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AA73E6-8035-403E-8B22-72FA805AB860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AA73E6-8035-403E-8B22-72FA805AB860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

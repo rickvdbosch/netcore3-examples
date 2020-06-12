@@ -25,7 +25,7 @@ namespace GrpcExamples.ConsoleApp
                 }
             } while (!quit);
 
-            Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("So Long, and Thanks for All the 🐟 ... !");
             Console.ReadKey();
         }
     }
